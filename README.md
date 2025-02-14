@@ -39,3 +39,13 @@ x(t) = \frac{Fe^{i\omega_{\mathrm f}t}}{-\omega_{\mathrm f}^2+i\gamma\omega_{\ma
 *On the worksheet, this task is titled task 2.*
 
 See `A3/main.py`.
+
+## B
+
+### Task 1
+
+See `B1/main.py`.
+
+### Task 2
+
+See `B2/main.py`.
